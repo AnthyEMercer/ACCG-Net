@@ -1,8 +1,7 @@
-# ADG-Net: Anatomy-aware Dynamic Multi-modal Knowledge Graph Reasoning for Automatic Chest X-ray Report Generation
+# ADG-Net: Anatomy-aware Dynamic Multi-modal Knowledge Graph Reasoning for Hierarchical Radiology Report Generation
 This repository contains the official implementation of the paper:
 
-> **ADG-Net: Anatomy-aware Dynamic Multi-modal Knowledge Graph Reasoning for Automatic Chest X-ray Report Generation**  
-> *Under Review*
+> **ADG-Net: Anatomy-aware Dynamic Multi-modal Knowledge Graph Reasoning for Hierarchical Radiology Report Generation**  
 
 ---
 
