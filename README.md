@@ -1,7 +1,7 @@
-# ADG-Net: Anatomy-aware Dynamic Multi-modal Knowledge Graph Reasoning for Hierarchical Radiology Report Generation
+# ACCG-Net: Anatomy-Aware Case-Conditioned Visual-Semantic Knowledge Graph Reasoning for Hierarchical Radiology Report Generation
 This repository contains the official implementation of the paper:
 
-> **ADG-Net: Anatomy-aware Dynamic Multi-modal Knowledge Graph Reasoning for Hierarchical Radiology Report Generation**  
+> **Anatomy-Aware Case-Conditioned Visual-Semantic Knowledge Graph Reasoning for Hierarchical Radiology Report Generation**  
 
 ---
 
